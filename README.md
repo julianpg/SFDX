@@ -1,2 +1,0 @@
-# SFDX
-salesforce DX
